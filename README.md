@@ -1,6 +1,3 @@
-Contribution: 2017-08-02 20:00
+# Flutter Clubhouse UI Tutorial | Apps From Scratch
 
-Contribution: 2017-08-02 20:01
-
-Contribution: 2017-08-02 20:02
-
+[YouTube Video](https://youtu.be/x606y4QWrxo)
